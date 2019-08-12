@@ -1,0 +1,6 @@
+C:\Users\Not Today\Documents\GitHub\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\MoviesCommunity.csprojAssemblyReference.cache
+C:\Users\Not Today\Documents\GitHub\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\MoviesCommunity.csproj.CoreCompileInputs.cache
+C:\Users\Not Today\Documents\GitHub\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\MoviesCommunity.RazorAssemblyInfo.cache
+C:\Users\Not Today\Documents\GitHub\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\MoviesCommunity.RazorAssemblyInfo.cs
+C:\Users\Not Today\Documents\GitHub\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\MoviesCommunity.AssemblyInfoInputs.cache
+C:\Users\Not Today\Documents\GitHub\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\MoviesCommunity.AssemblyInfo.cs
